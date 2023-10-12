@@ -9,7 +9,7 @@
  ``` 
     
 A website to review and talk about games! 
-Created by Nathan Laney, Tyler Minnis, Sumi Verma, Honna Sammos, Kaitlyn Finberg
+Created by Nathan Laney, Tyler Minnis, Sumi Verma, Honna Sammons, Kaitlyn Finberg
 
 In just under 4 months, we went from planning to deployment (https://vapor-webservice.onrender.com/) of the app. 
 
